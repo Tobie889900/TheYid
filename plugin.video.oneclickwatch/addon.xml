@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.oneclickwatch" version="0.0.3" name="One Click Watch" provider-name="TheYid">
+    <requires>
+        <import addon="xbmc.python" version="1.0"/>
+        <import addon="script.module.t0mm0.common" version="0.0.1"/>
+        <import addon="script.module.urlresolver" version="0.0.1"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Browse one click watch for all scene releases</summary>
+        <description>Play a wide selection of scene release movies and Tv shows from One Click Watch best hosts are putlocker 180upload uploadc vidxden vidbux</description>
+        <platform>all</platform>
+    </extension>
+</addon>

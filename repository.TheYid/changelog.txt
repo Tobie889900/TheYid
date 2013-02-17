@@ -1,0 +1,5 @@
+[B]Version 1.0[/B]
+- Initial version
+
+[B]Version 1.1[/B]
+- addons not auto updating in 1.0

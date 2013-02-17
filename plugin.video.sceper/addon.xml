@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.sceper" version="0.2" name="Sceper" provider-name="anilkuj fixed by theyid aka tcz009 using jasonpc rlslog fix">
+    <requires>
+        <import addon="xbmc.python" version="1.0"/>
+        <import addon="script.module.t0mm0.common" version="0.0.1"/>
+        <import version="0.0.1" addon="script.module.urlresolver"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Browse sceper</summary>
+        <description>stream a wide selection of tv shows and movies from sceper</description>
+        <platform>all</platform>
+    </extension>
+</addon>

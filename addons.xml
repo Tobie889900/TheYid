@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="plugin.video.releaseBB" version="0.0.3" name="releaseBB" provider-name="TheYid">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+    <import addon="script.module.t0mm0.common" version="0.0.1"/>
+    <import addon="script.module.urlresolver" version="0.0.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Browse releaseBB</summary>
+    <description>Play a wide selection of scene release movies and Tv shows from releaseBB.... YOU will need a real-debrid or a alldebrid account</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.isceners" version="0.0.1" name="isceners" provider-name="TheYid">
+   <requires>
+     <import addon="xbmc.python" version="1.0"/>
+     <import addon="script.module.t0mm0.common" version="0.0.1"/>
+     <import addon="script.module.urlresolver" version="0.0.1"/>
+   </requires>
+   <extension point="xbmc.python.pluginsource" library="default.py">
+         <provides>video</provides>
+   </extension>
+   <extension point="xbmc.addon.metadata">
+       <summary>Browse isceners</summary>
+       <description>Play a wide selection of movies and Tv shows from isceners loads of links</description>
+       <platform>all</platform>
+   </extension>
+</addon>
+
+<addon id="plugin.video.sceper" version="0.2" name="Sceper" provider-name="anilkuj fixed by theyid aka tcz009 using jasonpc rlslog fix">
+   <requires>
+     <import addon="xbmc.python" version="1.0"/>
+     <import addon="script.module.t0mm0.common" version="0.0.1"/>
+     <import addon="script.module.urlresolver" version="0.0.1"/>
+   </requires>
+   <extension point="xbmc.python.pluginsource" library="default.py">
+         <provides>video</provides>
+   </extension>
+   <extension point="xbmc.addon.metadata">
+       <summary>Browse sceper</summary>
+       <description>stream a wide selection of tv shows and movies from sceper</description>
+       <platform>all</platform>
+     </extension>
+</addon>
+
+<addon id="plugin.video.newrls" version="0.0.1" name="New Rls" provider-name="TheYid">
+   <requires>
+     <import addon="xbmc.python" version="1.0"/>
+     <import addon="script.module.t0mm0.common" version="0.0.1"/>
+     <import addon="script.module.urlresolver" version="0.0.1"/>
+   </requires>
+   <extension point="xbmc.python.pluginsource" library="default.py">
+         <provides>video</provides>
+   </extension>
+   <extension point="xbmc.addon.metadata">
+       <summary>Browse New Rls</summary>
+       <description>Play a wide selection of movies and Tv shows from New Rls</description>
+       <platform>all</platform>
+   </extension>
+</addon>
+
+<addon id="plugin.video.adult-bay" version="0.0.1" name="The Adult Bay" provider-name="TheYid">
+   <requires>
+     <import addon="xbmc.python" version="1.0"/>
+     <import addon="script.module.t0mm0.common" version="0.0.1"/>
+     <import addon="script.module.urlresolver" version="0.0.1"/>
+   </requires>
+   <extension point="xbmc.python.pluginsource" library="default.py">
+         <provides>video</provides>
+   </extension>
+   <extension point="xbmc.addon.metadata">
+       <summary>Stream XXX movies</summary>
+       <description>OVER 18's ONLY........ Stream a wide selection of XXX movies from the Adult Bay.......... OVER 18's ONLY........ Real-Debrid ONLY</description>
+       <platform>all</platform>
+   </extension>
+</addon>
+
+<addon id="plugin.video.ddlvalley" version="0.0.2" name="ddlvalley" provider-name="TheYid">
+   <requires>
+     <import addon="xbmc.python" version="1.0"/>
+     <import addon="script.module.t0mm0.common" version="0.0.1"/>
+     <import addon="script.module.urlresolver" version="0.0.1"/>
+   </requires>
+   <extension point="xbmc.python.pluginsource" library="default.py">
+         <provides>video</provides>
+   </extension>
+   <extension point="xbmc.addon.metadata">
+       <summary>Browse ddlvalley</summary>
+       <description>Play a wide selection of movies Tv shows from ddlvalley</description>
+       <platform>all</platform>
+     </extension>
+</addon>
+
+<addon id="plugin.video.megafun" version="0.0.3" name="MegaFun" provider-name="TheYid">
+   <requires>
+     <import addon="xbmc.python" version="1.0"/>
+     <import addon="script.module.t0mm0.common" version="0.0.1"/>
+     <import addon="script.module.urlresolver" version="0.0.1"/>
+   </requires>
+   <extension point="xbmc.python.pluginsource" library="default.py">
+         <provides>video</provides>
+   </extension>
+   <extension point="xbmc.addon.metadata">
+     <summary>Stream scene releases movies</summary>
+     <description>Stream a wide selection of movies from MegaFun...... Real-Debrid ONLY</description>
+     <platform>all</platform>
+   </extension>
+</addon>
+
+<addon id="plugin.video.oneclickwatch" version="0.0.3" name="One Click Watch" provider-name="TheYid">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+    <import addon="script.module.t0mm0.common" version="0.0.1"/>
+    <import addon="script.module.urlresolver" version="0.0.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+ </extension>
+ <extension point="xbmc.addon.metadata">
+        <summary>Browse one click watch for all scene releases</summary>
+        <description>Play a wide selection of scene release movies and Tv shows from One Click Watch best hosts are putlocker 180upload uploadc vidxden vidbux</description>
+        <platform>all</platform>
+ </extension>
+</addon>
+
+<addon id="repository.TheYid" name="TheYid" version="1.0" provider-name="TheYid">
+	<extension point="xbmc.addon.repository" name="TheYid Addon Repository">
+		<info compressed="false">http://dl.dropbox.com/u/26151319/My-Repo/addons.xml</info>
+		<checksum>http://dl.dropbox.com/u/26151319/My-Repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://dl.dropbox.com/u/26151319/My-Repo/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install MY Addons</summary>
+		<description>Download and install addons from TheYid.......For OFFICIAL Support Visit XBMCHUB.COM</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>

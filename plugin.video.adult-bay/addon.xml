@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.adult-bay" version="0.0.1" name="The Adult Bay" provider-name="TheYid">
+    <requires>
+        <import addon="xbmc.python" version="1.0"/>
+        <import addon="script.module.t0mm0.common" version="0.0.1"/>
+        <import addon="script.module.urlresolver" version="0.0.1"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Stream XXX movies</summary>
+        <description>OVER 18's ONLY........ Stream a wide selection of XXX movies from the Adult Bay.......... OVER 18's ONLY........ Real-Debrid ONLY</description>
+        <platform>all</platform>
+    </extension>
+</addon>

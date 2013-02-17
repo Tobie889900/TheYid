@@ -1,0 +1,6 @@
+[B]Version 0.2.0[/B]
+-fixed sceper.ws (was .eu) & fixed links with JAS0NPC'S rlslog fix THANKS Jas0npc !!
+[B]Version 0.1.1[/B]
+- Added more links from the comments section 
+[B]Version 0.1.0[/B]
+- Initial version of sceper.eu plugin

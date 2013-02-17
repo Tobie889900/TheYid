@@ -1,0 +1,5 @@
+[B]Version 0.0.2[/B]
+- Initial version of releaseBB plugin
+
+[B]Version 0.0.3[/B]
+- Fixed movies and tv shows cover art not showing up
